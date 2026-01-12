@@ -31,7 +31,7 @@ probCtoD<-rbeta(1,250,750)
 probCtoC<-1-probCtoD
 
 #Costs
-costHIVA<-7119
+costHIVA<-6282 #7119
 costHIVB<-8414
 costAIDS<-13370
 costdeath<-0
